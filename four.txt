@@ -3,5 +3,3 @@ four
 changed
 
 use pull
-
-STASH
